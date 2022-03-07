@@ -1,1 +1,1 @@
-# JS-EGZAM
+Atsiskaitomas darbas iš Javascript modulio.
